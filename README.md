@@ -1,4 +1,4 @@
-[![Release](https://img.shields.io/github/v/release/duck9667/slack-auto-newsbot)](https://github.com/duck9667/slack-auto-newsbot/releases) [![License](https://img.shields.io/github/license/duck9667/slack-auto-newsbot)](LICENSE) [![Issues](https://img.shields.io/github/issues/duck9667/slack-auto-newsbot)](https://github.com/duck9667/slack-auto-newsbot/issues) [![Last Commit](https://img.shields.io/github/last-commit/duck9667/slack-auto-newsbot)](https://github.com/duck9667/slack-auto-newsbot/commits) [![Stars](https://img.shields.io/github/stars/duck9667/slack-auto-newsbot?style=social)](https://github.com/duck9667/slack-auto-newsbot/stargazers) [![Python](https://img.shields.io/badge/python-3.8%2B-blue.svg)]()
+[![Python](https://img.shields.io/badge/python-3.8%2B-blue.svg)]()
 
 # Slack을 활용한 자동 뉴스봇 (Slack Auto Newsbot)
 
